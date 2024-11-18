@@ -38,3 +38,23 @@
       <a href="mailto:aedonoa.n@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a></strong></p>
 </div>
 
+## Projects
+
+<a href="https://github.com/Nneji123/Website-Blocker">
+
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+
+  <img align="center" src= "https://github.com/naedonoa/EnthesealChanges.git"/>
+
+</a>  
+
+<a href="https://github.com/Nneji123/Alien-Shooter">
+
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+
+  <img alig="center" src= "https://github.com/naedonoa/PENTA-UC.git"/>
+
+</a> 
+
+
+
