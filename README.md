@@ -1,31 +1,37 @@
-# Hi there 👋, Noe here. 
-[![GitHub followers](https://img.shields.io/github/followers/Bhargavi-hash.svg?style=social&label=Follow)](https://github.com/Bhargavi-hash?tab=followers)<br/>
+<p align="center">
+  <strong>Hi, I'm Noe!</strong>
+  <a href="https://github.com/Bouaskaoun" target="_self">
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+  </a>
+</p>
 
-<!--
-**Bhargavi-hash/Bhargavi-hash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
 <img align="right" alt="coding" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2ZvbDNyNXFnajlrbmxxbXpmM3F5dmx2Nmo5NGJsZ3BkdTc5bWRuZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l41lTyuPRZ7j4K0KI/giphy.gif">
 
-## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
+<div>
+  <p><strong>About me</strong></p>
+  <p>I'm a Physical Anthropologist from Chile. I'm interested in the social applications of explainable Machine Learning approaches to resolve problems of the human identification process in Forensic Anthropology.</p>
+</div>
 
-I am a Physical Anthropologist from Chile. I am interested in the social applications of explainable Machine Learning approaches to resolve problems of the human identification process in Forensic Anthropology.
+<div>
+  <p><strong>🔬 Research interests</strong></p>
+  <ul>
+    <li>📊 <strong>Qualitative and quantitative analysis</strong></li>
+    <li>🤖 <strong>Machine learning</strong></li>
+    <li>👥 <strong>Social sciences</strong></li>
+    <li>🦴 <strong>Physical and forensic anthropology</strong></li>
+    <li>📚 <strong>Sciences of education</strong></li>
+  </ul>
+</div>
 
-## 🔬 Research interests
+<div>
+  <p><strong>🛠️ Technical skills</strong></p>
+  <p>
+    <img src="https://img.shields.io/badge/R%20Studio-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  </p>
+</div>
 
-- 📊 **Qualitative and quantitative analysis**
-- 🤖 **Machine learning**
-- 👥 **Social sciences**
-- 🦴 **Physical and forensic anthropology**
-- 📚 **Sciences of education**.
-  
-
-
-## 🛠️ Technical skills
-
-![R](https://img.shields.io/badge/R%20Studio-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
----
-
-## 📫 Reach out to me at: aedonoa.n@gmail.com
+<div>
+  <p><strong>📫 Reach out to me at: aedonoa.n@gmail.com</strong></p>
+</div>
 
