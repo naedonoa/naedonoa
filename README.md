@@ -1,3 +1,4 @@
+<div style="font-family: Cambria, serif;">
 <p align="center">
   <strong>Hi, I'm Noe!</strong>
   <a href="https://github.com/Bouaskaoun" target="_self">
@@ -8,7 +9,7 @@
 <img align="right" alt="coding" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2ZvbDNyNXFnajlrbmxxbXpmM3F5dmx2Nmo5NGJsZ3BkdTc5bWRuZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l41lTyuPRZ7j4K0KI/giphy.gif">
 
 <div>
-  <p><strong>About me</strong></p>
+  <p><strong>About me 🚀</strong></p> 
   <p>I'm a Physical Anthropologist from Chile. I'm interested in the social applications of explainable Machine Learning approaches to resolve problems of the human identification process in Forensic Anthropology.</p>
 </div>
 
@@ -32,6 +33,8 @@
 </div>
 
 <div>
-  <p><strong>📫 Reach out to me at: aedonoa.n@gmail.com</strong></p>
+  <p><strong>📫 Connect with me:  
+    <p align="center">
+      <a href="mailto:aedonoa.n@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a></strong></p>
 </div>
 
