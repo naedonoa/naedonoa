@@ -10,7 +10,7 @@
 
 <div>
   <p><strong>About me  <img src=   "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3k5eWI5NGlkN2Zpb2F5MG85dzdybnNyeG16eGx1Z2k3enlpZ3ByeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/drsmP6xt4cS6uAxKhZ/giphy.gif" width="110"></strong></p>
-  <p>I'm a Physical Anthropologist from Chile with an interest in the social applications of explainable Machine Learning approaches to address challenges in the human identification process within Forensic Anthropology.</p>
+  <p>I'm a physical anthropologist from Chile with a strong interest in applying mathematical modeling to develop data-driven solutions that tackle the complex challenges involved in the human identification process within forensic anthropology.</p>
 </div>
 
 <div>
