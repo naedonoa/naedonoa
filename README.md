@@ -20,7 +20,6 @@
     <li>🤖 <strong>Machine learning</strong></li>
     <li>👥 <strong>Social sciences</strong></li>
     <li>🦴 <strong>Physical and forensic anthropology</strong></li>
-    <li>📚 <strong>Sciences of education</strong></li>
   </ul>
 </div>
 
