@@ -19,7 +19,7 @@
     <li>📊 <strong>Data-driven solutions for human identification</strong></li>
     <li>🤖 <strong>Machine learning and mathematical modeling</strong></li>
     <li>👥 <strong>Social sciences</strong></li>
-    <li>🧠 <strong>Computational approaches in social and physical sciences</strong></li>
+    <li>🧠 <strong>Computational social sciences</strong></li>
   </ul>
 </div>
 
