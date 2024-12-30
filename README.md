@@ -16,7 +16,7 @@
 <div>
   <p><strong>🔬 Research interests</strong></p>
   <ul>
-    <li>📊 <strong>Computational social sciences></li>
+    <li>📊 <strong>Computational social sciences></li
     <li>🤖 <strong>Machine learning</strong></li>
     <li>👥 <strong>Social sciences</strong></li>
     <li>🦴 <strong>Physical and forensic anthropology</strong></li>
