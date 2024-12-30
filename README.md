@@ -16,10 +16,10 @@
 <div>
   <p><strong>🔬 Research interests</strong></p>
   <ul>
-    <li>📊 <strong>Computational social sciences</strong></li>
-    <li>🤖 <strong>Machine learning</strong></li>
-    <li>👥 <strong>Social sciences</strong></li>
-    <li>🦴 <strong>Physical and forensic anthropology</strong></li>
+    <li>📊 <strong>Data-driven solutions for human identification></li>
+    <li>🤖 <strong>Machine learning and mathematical modeling></li>
+    <li>👥 <strong>Social sciences></li>
+    <li>🧠 <strong>Computational approaches in social and physical sciences></li>
   </ul>
 </div>
 
