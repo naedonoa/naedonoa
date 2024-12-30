@@ -16,12 +16,13 @@
 <div>
   <p><strong>🔬 Research interests</strong></p>
   <ul>
-    <li>📊 <strong>Data-driven solutions for human identification></li>
-    <li>🤖 <strong>Machine learning and mathematical modeling></li>
-    <li>👥 <strong>Social sciences></li>
-    <li>🧠 <strong>Computational approaches in social and physical sciences></li>
+    <li>📊 <strong>Data-driven solutions for human identification</strong></li>
+    <li>🤖 <strong>Machine learning and mathematical modeling</strong></li>
+    <li>👥 <strong>Social sciences</strong></li>
+    <li>🧠 <strong>Computational approaches in social and physical sciences</strong></li>
   </ul>
 </div>
+
 
 <div>
   <p><strong>🛠️ Technical skills</strong></p>
